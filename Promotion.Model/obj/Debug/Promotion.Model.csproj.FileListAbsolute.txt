@@ -1,0 +1,5 @@
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Model\bin\Debug\Promotion.Model.dll
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Model\bin\Debug\Promotion.Model.pdb
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Model\obj\Debug\Promotion.Model.csproj.CoreCompileInputs.cache
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Model\obj\Debug\Promotion.Model.dll
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Model\obj\Debug\Promotion.Model.pdb

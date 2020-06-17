@@ -1,0 +1,9 @@
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\bin\Debug\Promotion.Service.dll
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\bin\Debug\Promotion.Service.pdb
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\bin\Debug\Promotion.Model.dll
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\bin\Debug\Promotion.Model.pdb
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\obj\Debug\Promotion.Service.csprojAssemblyReference.cache
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\obj\Debug\Promotion.Service.csproj.CoreCompileInputs.cache
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\obj\Debug\Promotion.Service.csproj.CopyComplete
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\obj\Debug\Promotion.Service.dll
+C:\Users\P10476166\source\repos\PromotionalEngine\Promotion.Service\obj\Debug\Promotion.Service.pdb
